@@ -1,1 +1,0 @@
-# Stellar POS Releases
